@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/D-WILLI/Chat1-Test#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
     "socket.io": "^4.1.3"
   },
   "devDependencies": {
